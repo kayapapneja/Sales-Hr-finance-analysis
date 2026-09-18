@@ -44,3 +44,17 @@ Excel, Pivot Tables, Power Query, Power Pivot, Slicers
 - Sales_Dashboard_Dataset.xlsx
 - Financial_Dashboard_Dataset.xlsx
 - HR_Dashboard_Dataset.xlsx
+
+- ## Screenshots
+### Sales Dashboard
+![Sales Dashboard](sales%20dashboard.png)
+
+### HR Dashboard
+![HR Dashboard](hr%20dashboard.png)
+
+### Finance Dashboard
+![Finance Dashboard](financial%20dashboard.jpg)## Screenshots
+
+
+
+
